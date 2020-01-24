@@ -17,15 +17,15 @@ baseurl: ""
 title: Jesús Lara
 
 # Short description of your site
-description: Personal Web Page
+description: Pagina web y blog personal.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Open Learning: "openlearning"
-  Projects: "projects"
+#  Open Learning: "openlearning"
+#  Projects: "projects"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,10 +60,10 @@ author:
   name: Jesús Alejandro Lara Moreno
   email: "jesus_alexlara@outlook.com"
   github: JesusAlexlara
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
-  xing: yourname
-  stackoverflow: yourlink
+  twitter: jesusAlexLara
+# linkedin: frederik-kratzert-226a33148
+#  xing: yourname
+#  stackoverflow: yourlink
 
 
 # Select which links to show in the footer
@@ -73,7 +73,7 @@ footer-links-active:
   email: true
   twitter: true
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
 
@@ -91,10 +91,10 @@ url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kratzertblog"
+#disqus: "kratzertblog"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+#google_analytics: "UA-96660715-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -113,7 +113,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "America/Mexico_City"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
