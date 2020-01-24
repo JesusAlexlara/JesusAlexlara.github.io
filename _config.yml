@@ -61,6 +61,7 @@ author:
   email: "jesus_alexlara@outlook.com"
   github: JesusAlexlara
   twitter: jesusAlexLara
+  facebook: jalex.lara
 # linkedin: frederik-kratzert-226a33148
 #  xing: yourname
 #  stackoverflow: yourlink
@@ -69,7 +70,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: false
+  facebook: true
   email: true
   twitter: true
   github: true
@@ -83,7 +84,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
